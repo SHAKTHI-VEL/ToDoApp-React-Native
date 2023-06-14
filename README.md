@@ -17,7 +17,7 @@ https://github.com/SHAKTHI-VEL/ToDoListener/assets/93870684/ddaea584-221c-4576-a
 
 ## Installation
 
-To run this project locally, you need to have Flutter and Dart installed on your machine. Follow the steps below to get started:
+To run this project locally, you need to have Node installed on your machine. Follow the steps below to get started:
 
 1. Clone this repository to your local machine using the following command:
 
